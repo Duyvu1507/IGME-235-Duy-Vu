@@ -1,2 +1,3 @@
 # IGME-235-Duy-Vu
-Duy Vu's IGME 235 GitHub Repository
+
+Hello. My name is Duy Vu and this is my IGME-235 GitHub repository's readme file.
